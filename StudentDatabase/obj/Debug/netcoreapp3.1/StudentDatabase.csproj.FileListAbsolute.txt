@@ -1,0 +1,13 @@
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.exe
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.deps.json
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.runtimeconfig.json
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.runtimeconfig.dev.json
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.dll
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\bin\Debug\netcoreapp3.1\StudentDatabase.pdb
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.csprojAssemblyReference.cache
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.AssemblyInfo.cs
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.dll
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.pdb
+C:\Users\Jerome\source\repos\StudentDatabase\StudentDatabase\obj\Debug\netcoreapp3.1\StudentDatabase.genruntimeconfig.cache
